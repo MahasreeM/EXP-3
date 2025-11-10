@@ -68,9 +68,12 @@ Teaches real-world supply chain use cases.
 
 <img width="1890" height="1070" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/7d4d91c0-0ae1-44e0-8595-f02fb02e8306" />
 
+
 <img width="1905" height="1072" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/4e5eced0-a1b3-4b5f-8e42-c61db34bc1a9" />
+
 
 <img width="327" height="700" alt="image" src="https://github.com/user-attachments/assets/acd582e2-31f2-40e1-a83d-e8a6ac1f0ab0" />
 
 # RESULT : 
 
+Thus the smart contract that tracks the supply chain of luxury goods, ensuring authenticity.
